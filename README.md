@@ -1,1 +1,1 @@
-# nft-mint
+# mint-nft
